@@ -24,7 +24,8 @@ $footer = "
 
 $mpdf = new \Mpdf\Mpdf([
     'mode' => 'utf-8',
-    'format' => 'a4'
+    'format' => 'a4',
+    'default_font' => 'dejavusans'
 ]);
 $mpdf->useSubstitutions=false;
 $mpdf->setAutoTopMargin = 'stretch';
