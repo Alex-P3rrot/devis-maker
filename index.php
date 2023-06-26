@@ -12,9 +12,6 @@ $footer = "
             <small>" . strftime('%d %B %Y') . "</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </td>
         <td>
-            <small>N° Siret : 94786376700010</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        </td>
-        <td>
             <small>Non assujetti à la TVA </small>
         </td>
     </tr>
