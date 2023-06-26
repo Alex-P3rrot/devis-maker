@@ -1,0 +1,17 @@
+{
+    "name": "alex/devis-maker",
+    "autoload": {
+        "psr-4": {
+            "Alex\\DevisMaker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "perrot.alex.dev",
+            "email": "perrot.alex.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.1"
+    }
+}
